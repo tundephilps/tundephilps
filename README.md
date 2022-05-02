@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Tunde Philps</h1>
 <h3 align="center">A meticulous front end React.js Developer from Lagos with over 13months of experience, I will be Uploading my projects weekly most of which i have done both past and present.</h3>
-<img align="centre" alt="coding" width="400" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif">
+<img align="centre" alt="coding" width="600" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tundephilps&label=Profile%20views&color=0e75b6&style=flat" alt="tundephilps" /> </p>
