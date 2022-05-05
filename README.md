@@ -13,13 +13,13 @@
 
 - 🌱 I’m currently learning **DevOps, Firebase**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-eta-five-40.vercel.app/](https://portfolio-eta-five-40.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-tundephilps.vercel.app](https://portfolio-tundephilps.vercel.app)
 
 - 💬 Ask me about **HTML,CSS, Javascript,React.js**
 
 - 📫 How to reach me **tundephilps@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-eta-five-40.vercel.app/About](https://portfolio-eta-five-40.vercel.app/About)
+- 📄 Know about my experiences [https://portfolio-tundephilps.vercel.app/About](https://portfolio-tundephilps.vercel.app/About)
 
 - ⚡ Fun fact **Funny, Shy and i have a big nose**
 
