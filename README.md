@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 <h1 align="center">Hi 👋, I'm Tunde Akinola Philps</h1>
-<h3 align="center">A meticulous front end React.js Developer from Lagos with over 20months of experience, I will be Uploading my projects weekly most of which i have done both past and present.</h3>
+<h3 align="center">A meticulous front end React.js Developer from Lagos with over 2years of experience, I will be Uploading my projects weekly most of which i have done both past and present.</h3>
 <img align="centre" alt="coding" width="600" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif">
 
 
